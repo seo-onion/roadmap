@@ -53,7 +53,7 @@ No tengo ni idea XD, así que te dejo el link de descarga:
 [Guía de Git/GitHub](https://www.freecodecamp.org/espanol/news/guia-para-principiantes-de-git-y-github/)
 
 [Tutorial](https://www.youtube.com/watch?v=9ZJ-K-zk_Go)
-*Lo más relevante es que aprendas a instalarlo y a usar Git Bash, y si necesitas algo más especializado, busca más tutoriales.*
+*Lo más relevante del video es que aprendas a instalarlo y a usar Git Bash, y si necesitas aprender más en profundidad.*
 
 ---
 
